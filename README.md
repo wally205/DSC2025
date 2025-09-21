@@ -1,7 +1,5 @@
 # 🤖 Chatbot Nông Nghiệp Thông Minh
 
-## ⚡ Chạy nhanh
-
 ### 1. Cài đặt dependencies
 pip install -r requirements.txt
 
