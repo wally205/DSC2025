@@ -1,0 +1,47 @@
+# Core framework dependencies
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-core==0.1.48
+langchain-google-genai==1.0.3
+langgraph==0.0.39
+
+# Google AI dependencies
+google-generativeai==0.5.4
+
+# Vector database
+faiss-cpu==1.8.0
+
+# HuggingFace embeddings
+sentence-transformers==2.7.0
+torch==2.2.2
+
+# PDF processing
+PyPDF2==3.0.1
+pypdf==4.2.0
+
+# Web frameworks
+fastapi==0.110.2
+uvicorn[standard]==0.29.0
+streamlit==1.33.0
+
+# Additional utilities
+python-dotenv==1.0.1
+pydantic==2.7.1
+pydantic-settings==2.2.1
+httpx==0.27.0
+aiofiles==23.2.1
+aiohttp==3.9.5
+
+# Weather API
+rank-bm25==0.2.2
+
+# Logging and monitoring
+structlog==24.1.0
+rich==13.7.1
+
+# Development tools
+black==24.4.2
+isort==5.13.2
+flake8==7.0.0
+pytest==8.2.0
+pytest-asyncio==0.23.6
